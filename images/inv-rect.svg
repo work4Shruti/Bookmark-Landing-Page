@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <ellipse cx="500" cy="225" rx="100" ry="124.5" fill="hsl(231, 69%, 60%)"/>
+  <rect x="150" y="100" width="350" height="250" style="fill:hsl(231, 69%, 60%)"/>
+</svg>
